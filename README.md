@@ -1,6 +1,6 @@
 I'm Justin Gouin, a junior financial technologist gaining experience in the spheres of trading, analysis, and blockchain technology.\
 My skills include Python, MySQL, Solidity, and basic frontend development with HTML and JavaScript.\
-I am currently exploring the fundamentals of algorithmic trading, programmatically generated NFTs, token launches, and dApp development.\
+I am currently exploring the fundamentals of algorithmic trading, programmatically generated NFTs, token launches, and dApp development.
 
 Please reach out to me at juspgou@gmail.com 
 
